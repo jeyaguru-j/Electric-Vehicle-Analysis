@@ -1,0 +1,41 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environment folders
+venv/
+env/
+ENV/
+.venv/
+
+# IDE, editor, and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Log files and outputs
+*.log
+
+# Data files (optional - uncomment if you don't want data files tracked)
+# data/*.csv
+
+# Model and results files
+models/*.pkl
+results/*.json
+results/*.csv
+
+# Build/test outputs
+*.egg-info/
+dist/
+build/
+downloads/
+.eggs/
+
+# Other environment and temporary files
+*.swp
+*~
